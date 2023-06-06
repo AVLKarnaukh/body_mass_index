@@ -15,10 +15,6 @@ public class Main {
         System.out.println("Индекс массы тела: " + service.calculate(70, 1.65));
 
 
-
-
-
-
     }
 
 }
